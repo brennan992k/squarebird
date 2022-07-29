@@ -1,0 +1,21 @@
+fileFormatVersion: 2
+guid: ecc5f03420c04978855c3235d14231c0
+timeCreated: 1583961140
+licenseType: Free
+TrueTypeFontImporter:
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontName: "Nexa Bold"
+  fontNames:
+  - Nexa Bold
+  fallbackFontReferences: []
+  customCharacters:
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  userData:
+  assetBundleName: 
+  assetBundleVariant: 
